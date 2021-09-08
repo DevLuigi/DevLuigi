@@ -1,8 +1,8 @@
 ### Olá!! Eu sou o Luigi da Silva Coelho 👋😃
 
+Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 <br>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/luigi-da-silva-coelho-9abbbb21b) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luigidasilvacoelho@gmail.com)
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLuigi&show_icons=true&theme=dracula) 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
@@ -27,3 +27,8 @@
 <img alt="imagem" min-width="400px" max-width="400px" width="400px" align="right" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1459496/programming-clipart-xl.png" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuigi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contato:
+Linkedin: https://www.linkedin.com/in/luigi-da-silva-coelho-9abbbb21b/
+<br>
+Email: luigidasilvacoelho@gmail.com
