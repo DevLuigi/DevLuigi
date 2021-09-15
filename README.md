@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Luigi da Silva Coelho 👋😃
+### Olá!! Eu sou o Luigi da Silva Coelho <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 <br>
@@ -27,6 +27,8 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da programaç�
 <img alt="imagem" min-width="400px" max-width="400px" width="400px" align="right" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1459496/programming-clipart-xl.png" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuigi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  
 
 ## Contato:
 Linkedin: https://www.linkedin.com/in/luigi-da-silva-coelho-9abbbb21b/
