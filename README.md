@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Luigi da Silva Coelho <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px" height="15px">
+### Olá!! Eu sou o Luigi da Silva Coelho <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
 Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 <br>
