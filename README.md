@@ -4,6 +4,7 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da programaç�
 <br>
 <br>
 
+<img src="https://www.codewars.com/users/DevLuigi/badges/small">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLuigi&show_icons=true&theme=dracula) 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
 
