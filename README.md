@@ -27,8 +27,6 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da programaç�
 <br>
 <img alt="imagem" min-width="400px" max-width="400px" width="400px" align="right" src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1459496/programming-clipart-xl.png" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLuigi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  
 
 ## Contato:
