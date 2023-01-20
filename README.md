@@ -1,4 +1,5 @@
-### Olá!! Eu sou o Luigi da Silva Coelho <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as);Sou+Luigi+da+Silva+Coelho;Tenho+18+anos;Estudando+para+ser+Programador!!!)](https://git.io/typing-svg)
+
 
 Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.
 <br>
