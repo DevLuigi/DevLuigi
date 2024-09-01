@@ -41,6 +41,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### My badges:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b499c64a-2b67-47f5-bafa-a5c3915e794d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[Veja minha badge no Credly](https://www.credly.com/users/luigi-da-silva-coelho)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
